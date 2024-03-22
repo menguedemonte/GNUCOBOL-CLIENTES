@@ -9,3 +9,9 @@ Contenido
 6. Se muestra además el uso de SCREEN SECTION y el manejo de teclas especiales (no todas obviamente).
 7. Dejo imagen de la configuración de la solapa RUN en PREFERENCIAS a efectos de que las teclas
    especiales funcionen correctamente.  
+8. La rutina de errores (no escrita por mí sino modificada agregando algunos códigos de error más) puede
+   ser modificada a efectos de experimentar otros tipos de errores)
+Bueno, espero le sirva de utilidad a los que están incursionando en el tema y estén recién comenzando.
+Saludos cordiales.
+
+Mengue Demonte - Argentina.-
