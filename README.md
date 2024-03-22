@@ -1,5 +1,5 @@
 Contenido
-1. Programa ACCCLI.SQB (Fuente para el precompilador SQL que una vez compilado genera el ACCCLI.COB).
+1. Programa ACCESOCLI.SQB (Fuente para el precompilador SQL que una vez compilado genera el ACCCLI.COB).
 2. Este programa sencillo muestra el uso del lenguaje COBOL interactuando con bases de datos. 
 3. Bases de datos (4). Estas deben ser importadas por el MySQL Workbench. El nombre de la base de
    de datos es "datos_prueba".
