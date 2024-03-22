@@ -11,6 +11,9 @@ Contenido
    especiales funcionen correctamente.  
 8. La rutina de errores (no escrita por mí sino modificada agregando algunos códigos de error más) puede
    ser modificada a efectos de experimentar otros tipos de errores)
+
+La rutina TOMO_CODIGO_TECLA no usada en el programa puede ser llamada mediante un PERFORM luego de un ACCEPT para 
+examinar los distintos valores que toma al presionar las teclas de función. 
 Bueno, espero le sirva de utilidad a los que están incursionando en el tema y estén recién comenzando.
 Saludos cordiales.
 
